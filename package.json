@@ -33,6 +33,6 @@
     "eslint-plugin-wdio": "^7.21.0",
     "postcss": "^8.4.17",
     "prettier": "^2.7.1",
-    "webdriverio": "^7.25.1"
+    "webdriverio": "^8.21.0"
   }
 }
