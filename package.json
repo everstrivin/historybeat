@@ -32,7 +32,7 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-wdio": "^7.21.0",
     "postcss": "^8.4.17",
-    "prettier": "^2.7.1",
+    "prettier": "^3.1.0",
     "webdriverio": "^7.25.1"
   }
 }
